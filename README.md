@@ -1,8 +1,4 @@
-# Machine_Learning
-This repository contains the complete implementation of Machine Learning practicals performed as part of the ML Laboratory course.
-All practicals are implemented step-by-step using Python and standard machine learning libraries, following a proper data pipeline and reproducible workflow.
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d630178d-2aba-4566-a232-0d85cfdb9047" /># Branch_Computer
+The living system context layer that gives engineers and AI a shared understanding of repositories, services, dependencies, contracts, and blast radius.
 
-# Author
-Name : SAKSHI VINOD KUMBHARE 
-PRN : 23030331245053
-DEPARTMENT OF COMPUTER ENGINEERING , DR.BABASAHEB AMBEDKAR TECHNOLOGICAL UNIVERSITY LONERE RAIGAD (MS)
+
